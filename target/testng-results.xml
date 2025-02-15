@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T14:07:21 CDT" name="SampleSuite" finished-at="2024-09-24T14:07:29 CDT" duration-ms="8742">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T14:07:21 CDT" name="Login Page Test" finished-at="2024-09-24T14:07:29 CDT" duration-ms="8742">
+      <class name="mytests.Class1">
+        <test-method signature="method1()[pri:1, instance:mytests.Class1@2525ff7e]" started-at="2024-09-24T14:07:24 CDT" name="method1" finished-at="2024-09-24T14:07:24 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method2()[pri:2, instance:mytests.Class1@2525ff7e]" started-at="2024-09-24T14:07:24 CDT" name="method2" finished-at="2024-09-24T14:07:24 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- mytests.Class1 -->
+      <class name="mytests.LoginPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:mytests.LoginPageTest@5ace1ed4]" started-at="2024-09-24T14:07:21 CDT" name="setup" finished-at="2024-09-24T14:07:23 CDT" duration-ms="2797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTest()[pri:1, instance:mytests.LoginPageTest@5ace1ed4]" started-at="2024-09-24T14:07:24 CDT" name="loginPageTest" finished-at="2024-09-24T14:07:27 CDT" duration-ms="3046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method signature="LogoTest()[pri:2, instance:mytests.LoginPageTest@5ace1ed4]" started-at="2024-09-24T14:07:27 CDT" name="LogoTest" finished-at="2024-09-24T14:07:29 CDT" duration-ms="2133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mytests.LoginPageTest@5ace1ed4]" started-at="2024-09-24T14:07:29 CDT" name="tearDown" finished-at="2024-09-24T14:07:29 CDT" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mytests.LoginPageTest -->
+      <class name="mytests.SearchCustomer">
+        <test-method signature="setUp()[pri:1, instance:mytests.SearchCustomer@13b13b5d]" started-at="2024-09-24T14:07:24 CDT" name="setUp" finished-at="2024-09-24T14:07:24 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addCustomer()[pri:2, instance:mytests.SearchCustomer@13b13b5d]" started-at="2024-09-24T14:07:24 CDT" name="addCustomer" finished-at="2024-09-24T14:07:24 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="searchCustomer()[pri:3, instance:mytests.SearchCustomer@13b13b5d]" started-at="2024-09-24T14:07:24 CDT" name="searchCustomer" finished-at="2024-09-24T14:07:24 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCustomer -->
+        <test-method signature="tearDown()[pri:4, instance:mytests.SearchCustomer@13b13b5d]" started-at="2024-09-24T14:07:24 CDT" name="tearDown" finished-at="2024-09-24T14:07:24 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mytests.SearchCustomer -->
+    </test> <!-- Login Page Test -->
+  </suite> <!-- SampleSuite -->
+</testng-results>
