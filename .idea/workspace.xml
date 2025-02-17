@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143c0f9a-a83e-4762-a60a-45511597610c" name="Changes" comment="Push from Intellij">
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Mamal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Overriding01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/example/Puppy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/example/Java01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/example/Java01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/example/Java01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/example/Java01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +41,12 @@
     &quot;assignee&quot;: &quot;mehmetunlu07&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/mehmetunlu07/TestNGMavenProject.git&quot;,
-    &quot;accountId&quot;: &quot;fc0f4546-e8d5-41a9-8021-49fe5f91628a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/unluhacim/newTestNGMavenProject.git",
+    "accountId": "e31ec350-68d2-4c3c-a434-796ce2eb7597"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,46 +55,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BrokenLink.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test01.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.TestNGMavenProject [org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.TestNGMavenProject [test].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.AmazonTest.AmazonTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AmazonTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/munlu/IdeaProjects/TestNGMavenProject/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ExceptionEx1.addition.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ExceptionEx1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.JavaEx.brokenLinks.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.JavaEx.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.JavaEx.method.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginPageTest.LogoTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginPageTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.LogoTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.MyTestNG.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SampleTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SampleTest.productSearch.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Test01.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/munlu/IdeaProjects/newTestNGMavenProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BrokenLink.executor": "Run",
+    "Application.Child.executor": "Run",
+    "Application.Java01.executor": "Run",
+    "Application.Java02.executor": "Run",
+    "Application.Java03.executor": "Run",
+    "Application.Java04.executor": "Run",
+    "Application.JavaEx.executor": "Run",
+    "Application.Puppy.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test01.executor": "Run",
+    "Maven.TestNGMavenProject [org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test].executor": "Run",
+    "Maven.TestNGMavenProject [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AmazonTest.AmazonTest.executor": "Run",
+    "TestNG.AmazonTest.executor": "Run",
+    "TestNG.C:/Users/munlu/IdeaProjects/TestNGMavenProject/testng.xml.executor": "Run",
+    "TestNG.ExceptionEx1.addition.executor": "Run",
+    "TestNG.ExceptionEx1.executor": "Run",
+    "TestNG.JavaEx.brokenLinks.executor": "Run",
+    "TestNG.JavaEx.executor": "Run",
+    "TestNG.JavaEx.method.executor": "Run",
+    "TestNG.LoginPageTest.LogoTest.executor": "Run",
+    "TestNG.LoginPageTest.executor": "Run",
+    "TestNG.LoginTest.LogoTest.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.MyTestNG.executor": "Run",
+    "TestNG.SampleTest.executor": "Run",
+    "TestNG.SampleTest.productSearch.executor": "Run",
+    "TestNG.Test01.executor": "Run",
+    "TestNG.Test1.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/munlu/IdeaProjects/newTestNGMavenProject",
+    "settings.editor.selected.configurable": "debugger.stepping"
   }
-}</component>
-  <component name="RunManager" selected="Application.Java01">
-    <configuration name="BrokenLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.BrokenLink" />
+}]]></component>
+  <component name="RunManager" selected="Application.Puppy">
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Child" />
       <module name="TestNGMavenProject" />
       <extension name="coverage">
         <pattern>
@@ -126,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Puppy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Puppy" />
+      <module name="TestNGMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExceptionEx1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGMavenProject" />
       <extension name="coverage">
@@ -143,37 +164,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGMavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mytests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="mytests" />
-      <option name="MAIN_CLASS_NAME" value="mytests.SampleTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.BrokenLink" />
+      <item itemvalue="Application.Child" />
+      <item itemvalue="Application.Puppy" />
       <item itemvalue="Application.Java01" />
       <item itemvalue="Application.Java02" />
       <item itemvalue="TestNG.ExceptionEx1" />
-      <item itemvalue="TestNG.SampleTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Puppy" />
+        <item itemvalue="Application.Child" />
         <item itemvalue="Application.Java01" />
         <item itemvalue="Application.Java02" />
         <item itemvalue="TestNG.ExceptionEx1" />
-        <item itemvalue="Application.BrokenLink" />
-        <item itemvalue="TestNG.SampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739412674198</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Push from Intellij">
+      <option name="closed" value="true" />
+      <created>1739606097610</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739606097610</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
