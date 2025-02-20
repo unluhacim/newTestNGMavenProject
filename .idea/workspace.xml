@@ -32,12 +32,12 @@
     &quot;assignee&quot;: &quot;mehmetunlu07&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/unluhacim/newTestNGMavenProject.git",
-    "accountId": "e31ec350-68d2-4c3c-a434-796ce2eb7597"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/unluhacim/newTestNGMavenProject.git&quot;,
+    &quot;accountId&quot;: &quot;e31ec350-68d2-4c3c-a434-796ce2eb7597&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,46 +46,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BrokenLink.executor": "Run",
-    "Application.Child.executor": "Run",
-    "Application.Java01.executor": "Run",
-    "Application.Java02.executor": "Run",
-    "Application.Java03.executor": "Run",
-    "Application.Java04.executor": "Run",
-    "Application.JavaEx.executor": "Run",
-    "Application.Puppy.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test01.executor": "Run",
-    "Maven.TestNGMavenProject [org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test].executor": "Run",
-    "Maven.TestNGMavenProject [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.AmazonTest.AmazonTest.executor": "Run",
-    "TestNG.AmazonTest.executor": "Run",
-    "TestNG.C:/Users/munlu/IdeaProjects/TestNGMavenProject/testng.xml.executor": "Run",
-    "TestNG.ExceptionEx1.addition.executor": "Run",
-    "TestNG.ExceptionEx1.executor": "Run",
-    "TestNG.JavaEx.brokenLinks.executor": "Run",
-    "TestNG.JavaEx.executor": "Run",
-    "TestNG.JavaEx.method.executor": "Run",
-    "TestNG.LoginPageTest.LogoTest.executor": "Run",
-    "TestNG.LoginPageTest.executor": "Run",
-    "TestNG.LoginTest.LogoTest.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "TestNG.MyTestNG.executor": "Run",
-    "TestNG.SampleTest.executor": "Run",
-    "TestNG.SampleTest.productSearch.executor": "Run",
-    "TestNG.Test01.executor": "Run",
-    "TestNG.Test1.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/munlu/IdeaProjects/newTestNGMavenProject",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BrokenLink.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Puppy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test01.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TestNGMavenProject [org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TestNGMavenProject [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AmazonTest.AmazonTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AmazonTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/munlu/IdeaProjects/TestNGMavenProject/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ExceptionEx1.addition.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ExceptionEx1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JavaEx.brokenLinks.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JavaEx.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JavaEx.method.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.LogoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.LogoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTestNG.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SampleTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SampleTest.productSearch.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Test01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/munlu/IdeaProjects/newTestNGMavenProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Puppy">
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Users/munlu/IdeaProjects/newTestNGMavenProject/testng.xml">
     <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.Child" />
       <module name="TestNGMavenProject" />
@@ -138,17 +138,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/munlu/IdeaProjects/newTestNGMavenProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGMavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="example" />
-      <option name="MAIN_CLASS_NAME" value="example.ExceptionEx1" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -160,15 +153,15 @@
       <item itemvalue="Application.Puppy" />
       <item itemvalue="Application.Java01" />
       <item itemvalue="Application.Java02" />
-      <item itemvalue="TestNG.ExceptionEx1" />
+      <item itemvalue="TestNG.C:/Users/munlu/IdeaProjects/newTestNGMavenProject/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/munlu/IdeaProjects/newTestNGMavenProject/testng.xml" />
         <item itemvalue="Application.Puppy" />
         <item itemvalue="Application.Child" />
         <item itemvalue="Application.Java01" />
         <item itemvalue="Application.Java02" />
-        <item itemvalue="TestNG.ExceptionEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739831367863</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Push from Intellij">
+      <option name="closed" value="true" />
+      <created>1739844976712</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739844976712</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
